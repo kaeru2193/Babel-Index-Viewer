@@ -1,3 +1,6 @@
 [submodule "Pron-Convert"]
 	path = Pron-Convert
 	url = https://github.com/kaeru2193/Phun-Pron-Convert.git
+[submodule "ShakuyoSim"]
+	path = ShakuyoSim
+	url = https://github.com/kaeru2193/ShakuyoSystem-Simulate
